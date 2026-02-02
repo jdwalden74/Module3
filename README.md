@@ -1,1 +1,1 @@
-# Module3
+# Module3 for CS552 Generative AI at WPI
